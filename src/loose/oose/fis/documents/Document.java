@@ -1,4 +1,5 @@
 package loose.oose.fis.documents;
+//cris
 
 public abstract class Document {
     protected String[] continut;
