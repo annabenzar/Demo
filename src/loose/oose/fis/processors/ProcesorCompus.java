@@ -11,7 +11,7 @@ public class ProcesorCompus implements Procesor {
         procesoare.add(procesor);
     }
 
-    @Override
+    @Override//anna
     public int proceseaza(ArrayList<Document> documente) {
         int res = 0;
 
